@@ -10,6 +10,7 @@
  $ pkg update && pkg upgrade -y
  $ pkg install python git -y
  $ pip install --upgrade pip
+ $ pip install requests
  $ git clone https://github.com/AngCyber/FbTools
  $ cd $HOME/FbTools
  $ python run.py
